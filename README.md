@@ -48,7 +48,7 @@ In MSMEs, workers often increase welding current to finish faster, resulting in 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Weldlytics.git
+   git clone https://github.com/shuvamR/weldlytics.git
    cd Weldlytics
 
 2. **Install dependencies**
