@@ -1,4 +1,4 @@
-# weldlytics
+# Real Time Welding Quality Control & Loss Prevention System
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Hackathon](https://img.shields.io/badge/Beyond%20Transformers%20Hackathon-purple)]()
