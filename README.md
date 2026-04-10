@@ -13,7 +13,7 @@ In MSMEs, workers often increase welding current to finish faster, resulting in 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Module | Description |
 |--------|-------------|
@@ -37,7 +37,7 @@ In MSMEs, workers often increase welding current to finish faster, resulting in 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
