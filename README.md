@@ -29,7 +29,7 @@ In MSMEs, workers often increase welding current to finish faster, resulting in 
 | 💬 **ASK AI** | LLM‑powered chat (mock LLM ready for Pathway integration) – ask about current, costs, accuracy, consumables |
 
 ---
-
+<img width="742" height="401" alt="Diagram1" src="https://github.com/user-attachments/assets/772be648-b127-4144-af2b-6ed528c59bb5" />
 - **Data generator** simulates ESP32 readings (current, temp, vibration)
 - **BDH model** uses a Random Forest classifier trained on synthetic welding data
 - **Real‑time queue** passes data between pipeline and dashboard
