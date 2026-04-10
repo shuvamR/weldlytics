@@ -26,7 +26,7 @@ In MSMEs, workers often increase welding current to finish faster, resulting in 
 | 🚨 **Alert Center** | Severity‑based alerts (HIGH/MEDIUM/LOW), machine risk assessment |
 | ⚙️ **Settings & Integration** | Machine selection, sensor calibration, PLC/SCADA connectivity |
 | 📋 **Analytics** | Historical quality distribution, confidence trends, export to CSV |
-| 💬 **AI Co‑pilot** | LLM‑powered chat (mock LLM ready for Pathway integration) – ask about current, costs, accuracy, consumables |
+| 💬 **ASK AI** | LLM‑powered chat (mock LLM ready for Pathway integration) – ask about current, costs, accuracy, consumables |
 
 ---
 
